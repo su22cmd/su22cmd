@@ -7,4 +7,4 @@
   </div>
 </div>
 
-![](https://raw.githubusercontent.com/su22cmd/su22cmd/6c24fb139e34ab6c0c2d3fcf7677bf637721eae5/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/su22cmd/su22cmd/1e0d8d3bc1570b361a435fac835c39f20d98c81c/github-contribution-grid-snake.svg)
